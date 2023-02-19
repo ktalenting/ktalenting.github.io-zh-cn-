@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "/#recent-publications"
+  - title: "论文"
+    url: "/#最近发表"
 
-  - title: "Talks"
-    url: "/#talks"   
+  - title: "学术会议"
+    url: "/#学术会议和汇报"   
 
-  - title: "Teaching"
-    url: "/#teaching"    
+  - title: "教学"
+    url: "/#教学经历"    
     
-  - title: "Services"
-    url: "/#services"
+  - title: "学术兼职"
+    url: "/#学术兼职"
 
-  - title: "CV"
-    url: "/#cv"
+  - title: "学术简历"
+    url: "/#学术简历"
         
-  - title: "Blog Posts"
+  - title: "个人博客"
     url: /year-archive/
     
  
