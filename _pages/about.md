@@ -63,11 +63,9 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - 📚 教学助理, PLAN 105 规划分析入门, PLAN271 GIS入门, PLAN 387 空间数据库, PLAN349 城市形态和内部空间结构, ENVS 195 环境研究入门, 2017-2022
 
 # 学术兼职
-
 ## 匿名审稿人
 - ✍ Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
 - ✍ Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)
-
 ## 学术组织
 - 💼 学生会员, 加拿大规划师协会, 2018-present
 - 💼 委员, 滑铁卢大学学生教学委员会, 2019-present
