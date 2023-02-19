@@ -4,7 +4,10 @@ main:
     url: "/zh-cn/#最近发表"
 
   - title: "学术会议"
-    url: "/zh-cn/#学术会议和汇报"   
+    url: "/zh-cn/#学术会议和汇报"
+
+  - title: "科研基金"
+    url: "/zh-cn/#科研基金"     
 
   - title: "教学"
     url: "/zh-cn/#教学经历"    
@@ -15,8 +18,8 @@ main:
   - title: "学术简历"
     url: "/zh-cn/#学术简历"
         
-  - title: "个人博客"
-    url: "/zh-cn/year-archive/"
+#  - title: "个人博客"
+#    url: "/zh-cn/year-archive/"
     
  
     

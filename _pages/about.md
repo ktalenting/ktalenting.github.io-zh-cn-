@@ -58,6 +58,10 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 - 💬 **Yang, C.** and Qian, Z., (July 09, 2019). New perspective on urban form with the integration of space syntax and new urban data: An exploratory analysis in Xi’an, China. _International Space Syntax Symposium_. Beijing, China. (Oral presentation). **国际空间句法论坛**
 
+# 科研基金
+- 📈 2021-2023，浙江省自然科学基金/杰出青年项目，典型海岸带地区农地边际化机理、农户行为响应及应急管理 (LR21G030001)，PI：李焕；在研，**主研**
+- 📈 2018-2021，加拿大人文社科基金，成为城市公民：中国集中安置社区中村民的转型和适应 (NO.435-2018-0953)，（Co-PI: Joe Qian & Huan Li; 结题，**主研**
+
 # 教学经历
 - 📚 兼职讲师, PLAN 657 GIS和空间决策支持, 2023
 - 📚 教学助理, PLAN 105 规划分析入门, PLAN271 GIS入门, PLAN 387 空间数据库, PLAN349 城市形态和内部空间结构, ENVS 195 环境研究入门, 2017-2022
@@ -71,7 +75,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - 💼 委员, 滑铁卢大学学生教学委员会, 2019-present
 
 # 学术简历
-📂 下载我的[[学术简历]](/pdf/CV-Chen_ENG.pdf)
+📂 下载我的[[学术简历]](/pdf/CV-Chen_ZH.pdf)
 
 # 联系方式
 **地址:** Cities Lab, 200 University Avenue West, Waterloo, ON, Canada    
