@@ -76,7 +76,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - 💼 委员, 滑铁卢大学学生教学委员会, 2019-present
 
 # 学术简历
-📂 下载我的 [[学术简历]](/pdf/CV-Chen_ZH.pdf)
+📂 下载我的 [[学术简历]](/zh-cn/pdf/CV-Chen_ZH.pdf)
 
 # 联系方式
 **地址:** Cities Lab, 200 University Avenue West, Waterloo, ON, Canada    
