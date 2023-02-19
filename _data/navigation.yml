@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "论文"
-    url: "/#最近发表"
+    url: "/zh-cn/#最近发表"
 
   - title: "学术会议"
-    url: "/#学术会议和汇报"   
+    url: "/zh-cn/#学术会议和汇报"   
 
   - title: "教学"
-    url: "/#教学经历"    
+    url: "/zh-cn/#教学经历"    
     
   - title: "学术兼职"
-    url: "/#学术兼职"
+    url: "/zh-cn/#学术兼职"
 
   - title: "学术简历"
-    url: "/#学术简历"
+    url: "/zh-cn/#学术简历"
         
   - title: "个人博客"
-    url: /year-archive/
+    url: "/zh-cn/year-archive/"
     
  
     
