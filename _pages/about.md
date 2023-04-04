@@ -20,6 +20,7 @@ redirect_from:
 - 🎓 学士，建筑学, 2007-2012, 西安交通大学        
 
 # 最新消息
+- 🔊 [2023.04.03] 我很荣幸获得滑铁卢大学规划学院博士生优异奖（the School of Planning Award of Merit for PhD Students）
 - 🔊 [2023.02.21] 【微信新闻稿】我在第十届南京大学建筑与城市规划学院青年论坛做了题为[《空间生产视角下的移民安置城市化》的汇报](https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] 我将参加[第十届南京大学建筑与城市规划学院青年论坛](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
 
