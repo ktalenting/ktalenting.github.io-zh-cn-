@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 关于我
-我目前是加拿大滑铁卢大学城市规划专业在读博士生，预计2023年7月毕业。我近期的工作关注中国城乡发展过程中的安置移民研究，城市形态和基于空间句法和GIS手段的定量城市分析。 
+我目前是加拿大滑铁卢大学城市规划专业在读博士生，预计2023年8月毕业。我近期的工作关注15分钟城市和中国城乡发展过程中的安置移民研究。我还对以下研究课题感兴趣，欢迎有相同兴趣的同行联系交流合作！
 
 我的研究兴趣包括：城乡一体化发展与移民安置研究，城市形态学与定量城市分析 空间句法，空间生产理论, 基于GIS多准则决策分析的城市决策支持，批判城市理论，城市更新和工业遗产改造，教育建筑设计，等。
 
@@ -20,6 +20,8 @@ redirect_from:
 - 🎓 学士，建筑学, 2007-2012, 西安交通大学        
 
 # 最新消息
+- 🔊 [2023.06.28] 我的论文 (China’s integrated urban-rural development: a development mode outside the planetary urbanization paradigm?) 获得了 第17届国际中国规划协会年会最佳学生论文奖 (17th IACP 2023 Karen R. PolenskeBest Student Paper Award)
+- 🔊 [2023.06.14] 我很荣幸参加2023 由Texas A&M University 承办的 JPER 青年学者写作工作营
 - 🔊 [2023.04.03] 我很荣幸获得滑铁卢大学规划学院博士生优异奖（the School of Planning Award of Merit for PhD Students）
 - 🔊 [2023.02.21] 【微信新闻稿】我在第十届南京大学建筑与城市规划学院青年论坛做了题为[《空间生产视角下的移民安置城市化》的汇报](https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] 我将参加[第十届南京大学建筑与城市规划学院青年论坛](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
