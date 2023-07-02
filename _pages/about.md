@@ -20,8 +20,8 @@ redirect_from:
 - 🎓 学士，建筑学, 2007-2012, 西安交通大学        
 
 # 最新消息
-- 🔊 [2023.06.28] 我的论文 (China’s integrated urban-rural development: a development mode outside the planetary urbanization paradigm?) 获得了 第17届国际中国规划协会年会最佳学生论文奖 (17th IACP 2023 Karen R. PolenskeBest Student Paper Award)
-- 🔊 [2023.06.14] 我很荣幸参加2023 由Texas A&M University 承办的 JPER 青年学者写作工作营
+- 🔊 [2023.06.28] 我的论文 (China’s integrated urban-rural development: a development mode outside the planetary urbanization paradigm?) 获得了 第17届国际中国规划协会年会最佳学生论文奖 ([17th IACP 2023 Karen R. PolenskeBest Student Paper Award](http://www.china-planning.org/alpha/karenpolenskeaward/))
+- 🔊 [2023.06.14] 我很荣幸参加2023 由Texas A&M University 承办的 JPER [青年学者写作工作营](https://www.acsp.org/news/643776/JPER-Writing-Workshop-for-New-Scholars-Wrap-Up.htm)
 - 🔊 [2023.04.03] 我很荣幸获得滑铁卢大学规划学院博士生优异奖（the School of Planning Award of Merit for PhD Students）
 - 🔊 [2023.02.21] 【微信新闻稿】我在第十届南京大学建筑与城市规划学院青年论坛做了题为[《空间生产视角下的移民安置城市化》的汇报](https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] 我将参加[第十届南京大学建筑与城市规划学院青年论坛](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
