@@ -47,6 +47,8 @@ redirect_from:
 - 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban-Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm?. _In Cities in an Era of Cascading Risks: New Insights from the Ground_ (Forthcoming). Springer.
 
 # 学术会议和汇报
+- 💬 **Yang, C.，**  (2023.06.28). 中国的城乡一体化发展：星球城市化范式之外的发展模式？  _17th IACP Conference_. 天津, 中国. **国际中国规划协会年会**
+
 - 💬 **Yang, C.**, (2023.02.16). 空间生产视角下的移民安置城市化--以杭州集中安置社区为例. _第十届南京大学建筑与城市规划学院青年论坛_. 南京，中国 （在线汇报）
 
 - 💬 **Yang, C.** and Qian, Z., (2022.11.04). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _ACSP 2022 Annual Conference_. Toronto, Canada. (Oral presentation). **北美规划院校联合年会**
