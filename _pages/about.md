@@ -80,6 +80,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - ✍ Applied Economics (SSCI)
 - ✍ Agribusiness, (SSCI/SCI)    
 ## 学术组织
+- 💼 学生会员, 国际中国规划协会, 2020-present
 - 💼 学生会员, 加拿大规划师协会, 2018-present
 - 💼 委员, 滑铁卢大学学生教学委员会, 2019-present
 
