@@ -30,7 +30,7 @@ redirect_from:
 
 
 # 最近发表
-- 📝**Yang, C.**, & Qian, Z. (2023). “Art district without artists”: Urban redevelopment through industrial heritage renovation and the gentrification of industrial neighborhoods in China. _Urban Geography_, online first, 1–23. https://doi.org/10.1080/02723638.2023.2246846 (SSCI JCR 一区 IF=3.8)
+- 📝**Yang, C.**, & Qian, Z. (2023). “Art district without artists”: Urban redevelopment through industrial heritage renovation and the gentrification of industrial neighborhoods in China. _Urban Geography_, online first, 1–23. [[DOI]](https://doi.org/10.1080/02723638.2023.2246846) (SSCI JCR 一区 IF=3.8)
 
 - 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCI, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
 
@@ -44,9 +44,9 @@ redirect_from:
 
 - 📝 **Yang, C.**, & Qian, Z. ‘Resettlement with Chinese characteristics’: The distinctive political-economic context, (in)voluntary urbanites, and three types of mismatch. _International Journal of Urban Sustainable Development_, 1–20. (ESCI) [[DOI]](https://doi.org/10.1080/19463138.2021.1955364)
 
-- 📖 **Yang, C.**, & Qian, Z. (2023). Restructuring Urban Form Through Restructuring Accessibility: An Integrated Urban Network Approach. In P. L. Mora, D. L. Viana, F. Morais, & J. Vieira Vaz (Eds.), _Formal Methods in Architecture_ (pp. 79–91). Springer Nature. https://doi.org/10.1007/978-981-99-2217-8_7  
+- 📖 **Yang, C.**, & Qian, Z. (2023). Restructuring Urban Form Through Restructuring Accessibility: An Integrated Urban Network Approach. In P. L. Mora, D. L. Viana, F. Morais, & J. Vieira Vaz (Eds.), _Formal Methods in Architecture_ (pp. 79–91). Springer Nature. [[DOI]](https://doi.org/10.1007/978-981-99-2217-8_7)  
 
-- 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban–Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm? In L. Zhang, E. Kanini Wamuchiru, & C. A. Meutchehe Ngomsi (Eds.), _The City in an Era of Cascading Risks: New Insights from the Ground_ (pp. 169–193). Springer Nature. https://doi.org/10.1007/978-981-99-2050-1_10
+- 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban–Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm? In L. Zhang, E. Kanini Wamuchiru, & C. A. Meutchehe Ngomsi (Eds.), _The City in an Era of Cascading Risks: New Insights from the Ground_ (pp. 169–193). Springer Nature. [[DOI]](https://doi.org/10.1007/978-981-99-2050-1_10)
 
 # 学术会议和汇报
 - 💬 **Yang, C.，**  (2023.06.28). 中国的城乡一体化发展：星球城市化范式之外的发展模式？  _17th IACP Conference_. 天津, 中国. **国际中国规划协会年会**
