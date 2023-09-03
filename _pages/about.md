@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 关于我
-我目前是加拿大滑铁卢大学城市规划专业在读博士生，预计2023年8月毕业。我近期的工作关注15分钟城市和中国城乡发展过程中的安置移民研究。我还对以下研究课题感兴趣，欢迎有相同兴趣的同行联系交流合作！
+我近期的工作关注15分钟城市和中国城乡发展过程中的安置移民研究。我还对以下研究课题感兴趣，欢迎有相同兴趣的同行联系交流合作！
 
 我的研究兴趣包括：城乡一体化发展与移民安置研究，城市形态学与定量城市分析 空间句法，空间生产理论, 基于GIS多准则决策分析的城市决策支持，批判城市理论，城市更新和工业遗产改造，教育建筑设计，等。
 
@@ -78,7 +78,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 # 学术兼职
 ## 匿名审稿人
-- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI), Applied Geography (SSCI), Applied Economics (SSCI), Agribusiness, (SSCI/SCI)    
+- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI), Applied Geography (SSCI), Applied Economics, (SSCI), Agribusiness, (SSCI/SCI), Socio-Economic Planning Sciences (SSCI/SCI), NJAS: Impact in Agricultural and Life Science (SCI)  
 
 ## 学术组织
 - 💼 学生会员, 国际中国规划协会, 2020-present
