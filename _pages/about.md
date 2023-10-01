@@ -30,6 +30,8 @@ redirect_from:
 
 
 # 最近发表
+- 📝**Yang, C.**, Qian, Z., & Li, H. (forthcoming). Informality as an approach to claiming the right to resettlement and achieving inclusive rural-to-urban resettlement for landless villagers: The case of Hangzhou, China. Journal of Urban Affairs. [[DOI]](https://doi.org/10.1080/07352166.2023.2262630) (SSCI JCR 三区 IF=2.1)
+
 - 📝**Yang, C.**, & Qian, Z. (2023). “Art district without artists”: Urban redevelopment through industrial heritage renovation and the gentrification of industrial neighborhoods in China. _Urban Geography_, online first, 1–23. [[DOI]](https://doi.org/10.1080/02723638.2023.2246846) (SSCI JCR 一区 IF=3.8)
 
 - 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCI, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
